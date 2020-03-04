@@ -1,3 +1,2 @@
 c:
 adb devices
-pause
