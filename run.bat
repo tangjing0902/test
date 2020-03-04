@@ -1,2 +1,3 @@
-adb deviecs
+c:
+adb devices
 pause
